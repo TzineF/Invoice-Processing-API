@@ -1,0 +1,9 @@
+langchain==1.5.0
+langgraph==1.2.22
+langchain-google-genai==4.5.0
+
+fastapi==0.162.7
+uvicorn==0.54.0
+
+python-dotenv==1.2.4
+python-multipart>=0.0.32
