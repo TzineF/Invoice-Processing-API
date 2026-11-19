@@ -7,3 +7,9 @@ uvicorn==0.54.0
 
 python-dotenv==1.2.4
 python-multipart>=0.0.32
+pydantic-settings==2.16.3
+
+psycopg[binary]==3.3.9
+psycopg_pool==3.3.3
+langgraph-checkpoint-postgres==3.2.1
+SQLAlchemy>=2.0.52,<2.1
